@@ -1,5 +1,7 @@
 # 🐱💻 Игра «Кот-хакер»
 
+Ссылка на проект: https://t.me/Lusha2025_bot
+
 ![Иллюстрация к проекту](
 https://github.com/e-tyatte/cat-hacker/blob/main/src/main/resources/images/final_pic.jpg)
 
